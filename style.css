@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h3 {
+    color: #343a40;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+img {
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+    border: 2px solid #343a40;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background: #f8f9fa;
+    margin: 5px 0;
+    padding: 10px;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+}
