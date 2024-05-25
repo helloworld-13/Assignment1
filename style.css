@@ -2,6 +2,21 @@ body {
     font-family: Arial, sans-serif;
 }
 
+body {
+    background-color: #f8f9fa; /* Light gray background */
+}
+
+.container {
+    background-color: #fff; /* White container background */
+    border-radius: 10px; /* Rounded corners */
+    padding: 20px; /* Padding inside container */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Shadow effect */
+}
+
+.navbar {
+    background-color: #343a40 !important; /* Dark background for navbar */
+}
+
 h1, h3 {
     color: #343a40;
 }
